@@ -1,3 +1,3 @@
 # Turma01
 
-Atenção! Não subir sua branch na principal.
+Atenção! Não fazer merge da sua branch na master/principal.
