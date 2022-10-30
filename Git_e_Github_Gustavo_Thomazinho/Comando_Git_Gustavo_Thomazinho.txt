@@ -1,0 +1,9 @@
+git add . // adiciona todos os arquivos
+
+git commit -m "mensagem" // adiciona uma mensagem nas alterações feitas
+
+git push origin master // envia as mudanças para o repositório remoto
+
+git status // rastreia o status do arquivo
+
+git remote add origin // add repositório remoto no repositoria local

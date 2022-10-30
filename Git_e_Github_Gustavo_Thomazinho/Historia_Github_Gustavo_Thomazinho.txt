@@ -1,0 +1,3 @@
+QUem inventou o Git foi Linus Torvalds, pois estava insatisfeito com os sistemas de versionamentos existentes.
+Atual dono do Github é a Microsoft
+Sim, é possível trabalhar com o Github pelo prórpio VSCode ou pelo portal do Github.
