@@ -1,0 +1,26 @@
+git init: cria um repositório local
+
+git config --global user.name "nome": configura esse nome para todas as atualizações entre os repositórios local e remoto,colocar o mesmo nome que usa no Github
+
+git config --global user.email "email": mesma configuração do mencionado acima, mas aqui colocamos o e-mail usado para acessar o Github
+
+git status: trás o status atual e os arquivos atuais também
+
+git remote add origin "link": aponta o repositório remoto com o qual o local irá se conectar
+
+git add "arquivo" / git add .: adiciona o arquivo mencionado ou todos da pasta
+
+git commit -m "mensagem": adiciona uma mensagem ao comit, o que ajuda na identificação de cada atualização
+
+git push origin master/main: joga os arquivos comitados do repositório local para o remoto
+
+git clone "link": faz uma cópia local de um repositório remoto, é para a primeira vez
+
+git pull origin master/main: atualiza um repositório local com os dados de um repositório remoto (já clonado)
+
+git branch "nome": cria uma branch dentro de um repositório remoto
+
+git checkout "nome": sai de uma branch e entra na mencionada na parte "nome"
+
+git merge "nome": junta a master com a branch mencionada no comando
+
